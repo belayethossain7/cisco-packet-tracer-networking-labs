@@ -1,0 +1,26 @@
+CLI command in Switch
+
+en-----enable the switch
+sh vlan brief--------show all vlan in switch
+conf t ---------configure terminal on---for configuration terminal
+
+vlan 11--------creating vlan with a number
+
+name BBA ---------now give vlan name
+
+ex------ exit command after vlan configure or creation
+
+
+now create another vlan 
+
+vlan 22
+name engr
+ex
+ex-------again exait command for exit the config mode
+
+
+for showing or checking the vlan in this switch
+
+show vlan brief----show all vlan with name and number
+
+
